@@ -4,8 +4,8 @@ Using Estimation Maximization to induce verb and noun classes based on extracted
 
 ## Contributors
 
-- Athanasios Efthymiou (thefth)
-- Janis Pagel (pagelj)
+- [pagelj](https://github.com/pagelj)
+- [thefth](https://github.com/thefth)
 
 ## Variables
 
